@@ -1,4 +1,4 @@
-# 📺 IMDb Top 5000 TV Shows – EDA & Insights
+# 📺 IMDb Top 5000 TV Shows – EDA 
 
 Welcome to a data-driven exploration of the **top 5000 TV shows** listed on IMDb. This project dives into ratings, genres, votes, and trends over time to uncover what makes a TV show stand out in the entertainment world.
 
@@ -8,7 +8,7 @@ Welcome to a data-driven exploration of the **top 5000 TV shows** listed on IMDb
 
 ---
 
-## 📌 Project Highlights
+##  Highlights
 
 - 📊 **In-depth Exploratory Data Analysis (EDA)**
 - 🎭 Genre trends, rating distributions, and vote analysis
